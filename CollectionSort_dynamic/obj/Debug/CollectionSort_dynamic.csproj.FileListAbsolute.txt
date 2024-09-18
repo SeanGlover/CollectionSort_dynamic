@@ -1,0 +1,10 @@
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\bin\Debug\CollectionSort_dynamic.exe.config
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\bin\Debug\CollectionSort_dynamic.exe
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\bin\Debug\CollectionSort_dynamic.pdb
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.csproj.AssemblyReference.cache
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.Form1.resources
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.Properties.Resources.resources
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.csproj.GenerateResource.cache
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.exe
+C:\Users\SeanGlover\source\repos\CollectionSort_dynamic\CollectionSort_dynamic\obj\Debug\CollectionSort_dynamic.pdb
